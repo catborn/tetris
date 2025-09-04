@@ -1,8 +1,10 @@
-# [Code Tetris: JavaScript Tutorial for Beginners](https://www.youtube.com/watch?v=rAUn1Lom6dw)
+# 🕹️ [Play Tetris](https://catborn.github.io/tetris-basic/) 
 
-## Thank you very much for the explanation [tetris-basic](https://github.com/kubowania/Tetris-Basic)
+### 👨‍💻 [Code Tetris: JavaScript Tutorial for Beginners](https://www.youtube.com/watch?v=rAUn1Lom6dw)
 
-JavaScript methods:
+### 🔥 Thank you very much for the explanation [tetris-basic](https://github.com/kubowania/Tetris-Basic)
+
+### 💎 JavaScript methods:
 
 - addEventListener()
 - querySelector()
